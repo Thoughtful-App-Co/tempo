@@ -1,4 +1,4 @@
-#TEMPO
+# TEMPO
 OFFICIAL NOTICE: This is not longer an active project. We have moved tempo to the TACo monolith and converted this app from Next to Solid. 
 
 ## Getting Started
